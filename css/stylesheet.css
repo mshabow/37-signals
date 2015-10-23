@@ -1,0 +1,257 @@
+body {
+	margin: 0px;
+}
+nav ul li {
+	font-family: Arial;
+	float: right;
+	display: inline;
+	font-size: 12px;
+	margin: 5px;
+	padding: 5px;
+}
+nav {
+	height: 80px;
+}
+nav ul li a {
+	text-decoration: none;
+	color: #369;
+	margin: 15px 5px 15px 6px;
+}
+header {
+	text-align: center;
+	height: 200px;
+	width: 829px;
+	margin: 0px auto;
+	padding: 6px 0px;
+	font-family: Arial;
+
+}
+header h1 {
+	font-size: 45px;
+}
+header h5 {
+	font-size: 15px;
+}
+section {
+	margin: 30px auto;
+	width: 825px;
+	display: block;
+}
+.products {
+	text-align: center;
+	height: 288px;
+	padding-bottom: 10px;
+	font-family: Arial;
+}
+.A {
+	top: 40px;
+	left: 75px;
+	width: 160px;
+	margin: 15px 20px 5px;
+	float: left;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px #EFEFEF;
+	padding: 20px 10px 10px;
+	text-decoration: none;
+	background:transparent;
+	border: 1px solid #E8E8E8;
+	position: relative;
+}
+.B {
+	top: 40px;
+	left: 75px;
+	width: 160px;
+	margin: 15px 20px 5px;
+	float: left;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px #EFEFEF;
+	padding: 20px 10px 10px;
+	text-decoration: none;
+	background:transparent;
+	border: 1px solid #E8E8E8;
+	position: relative;
+}
+.C {
+	top: 40px;
+	left: 75px;
+	width: 160px;
+	margin: 15px 20px 5px;
+	float: left;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px #EFEFEF;
+	padding: 20px 10px 10px;
+	text-decoration: none;
+	background:transparent;
+	border: 1px solid #E8E8E8;
+	position: relative;
+}
+section S.products h3 {
+	font-size: 21px;
+	color: #369;
+	font-weight: bold;
+	line-height: 1.5em;
+	margin: 0px 0px 10px;
+	text-decoration: underline;
+}
+section h4 {
+	margin: 5px 0px 10px;
+	font-size: 14px;
+	color: #C00;
+}
+section p {
+	color: black;
+	font-size: 14px;
+	line-height: 1.4em;
+	margin: 5px 0px;
+}
+.customers {
+	margin: 30px auto;
+	width: 760px;
+	display: block;
+}
+.customers h3 {
+	font-family: Arial;
+	color: black;
+	font-size: 48px;
+	font-weight: 500;
+	font-style: normal;
+	line-height: 1.1em;
+	letter-spacing: -1px;
+	text-align: center;
+}
+.customers p {
+	font-family: Arial;
+	text-align: left;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 1.3em;
+	color: gray;
+	margin:  0px 0px ;
+	padding: 10px
+}
+.globe {
+	float: right;
+}
+.leftarrow {
+	width: 69px;
+	height: 36px;
+	position: relative;
+	top: -100px;
+}
+.meet {
+	position: absolute;
+	margin-left: -150px;
+	margin-top: -180px;
+}
+.meet a {
+	background-image: url("http://www.codifyacademy.com/salespage/img/img-customers.png");
+	background-repeat: none;
+	display: block;
+	width: 143px;
+	height: 104px;
+}
+.meet a:hover {
+	background-position: 0 100%;
+}
+.meet p {
+	font-size: 10px;
+	font-weight: 400;
+	text-align: center;
+	color: gray;
+}
+section img {
+	padding: 10px;
+	margin-left: -30px;
+}
+.manifesto {
+	margin-top: 0px;
+	margin-bottom: 50px;
+	padding-left: 15px;
+}
+.manifesto h2 {
+	font-family: Arial;
+	font-size: 40px;
+	text-align: center;
+}
+.columleft {
+	margin-right: 0px;
+	width: 380px;
+	float: left;
+	font-family: Arial;
+	text-align: center;
+	font-size: 18px;
+	line-height: 1.5em;
+
+}
+.columleft h3 {
+	font-family: Arial;
+	padding-left: 5px;
+	width: 25px;
+	float: left;
+	font-size: 58px;
+	font-weight: 500;
+	color: #CCC;
+	margin: -10px 15px 0px 0px;
+
+}
+.columleft h4 {
+	text-align: left;
+	font-size: 20px;
+	color: #C00;
+	font-family: Arial;
+	margin: 5px 0px;
+}
+.columleft p {
+	margin: 0px 0px 0px 45px;
+	font-family: Arial;
+	text-align: left;
+	font-size: 10px;
+	color: #222;
+}
+.columright {
+	margin-right: 0px;
+	width: 380px;
+	float: left;
+	font-family: Arial;
+	text-align: center;
+	font-size: 18px;
+	line-height: 1.5em;
+
+}
+.columright h3 {
+	font-family: Arial;
+	padding-left: 5px;
+	width: 25px;
+	float: left;
+	font-size: 58px;
+	font-weight: 500;
+	color: #CCC;
+	margin: -10px 15px 0px 0px;
+}
+.columright h4 {
+	text-align: left;
+	font-size: 20px;
+	color: #C00;
+	font-family: Arial;
+	margin: 5px 0px;
+}
+.columright p {
+	margin: 0px 0px 0px 45px;
+	font-family: Arial;
+	text-align: left;
+	font-size: 10px;
+	color: #222;
+}
+.rework {
+	height: 500px;
+}
+.rework h3 {
+	font-family: Arial;
+	color: #232323;
+	margin: 30px 0px;
+	font-size: 48px;
+	font-weight: 500;
+	font-style: normal;
+	text-align: center;
+
+}
